@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a student passionate about web development and cloud-based applications<br> I’m currently working on full-stack projects using React, JavaScript, and IoT dashboards<br> I’m looking to collaborate on open-source web apps, dashboards, or cloud projects<br> I’m looking for help with advanced backend development and deployment<br> I’m currently learning AWS services, system design, and scalable web apps<br> Ask me about React, JavaScript, IoT projects, and frontend development<br> Fun fact: I turn project ideas into working prototypes faster than I plan them
+ I am a student passionate about web development and cloud-based applications<br> I’m currently working on full-stack projects using React, JavaScript, and IoT dashboards<br> I’m looking for help with advanced backend development and deployment<br> I’m currently learning AWS services, system design, and scalable web apps<br> Fun fact: I turn project ideas into working prototypes faster than I plan them
 
 
 ## 🌐 Socials:
